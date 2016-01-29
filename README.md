@@ -1,2 +1,3 @@
 # HelloWorld
-Testing out GitHub, trying to learn what is going on
+Testing out GitHub, trying to learn what is going in
+Change of text
